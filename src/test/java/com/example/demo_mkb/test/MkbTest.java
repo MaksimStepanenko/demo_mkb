@@ -1,9 +1,9 @@
-package com.example.demo_mkb.tests;
+package com.example.demo_mkb.test;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.Configuration;
 import com.example.demo_mkb.config.Config;
-import com.example.demo_mkb.pages.LoginPage;
+import com.example.demo_mkb.page.LoginPage;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
